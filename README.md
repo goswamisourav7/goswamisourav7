@@ -1,3 +1,4 @@
+<img width="828" height="984" alt="SouravGoswami" src="https://github.com/user-attachments/assets/12b587d2-8b57-4e7f-b065-fcf0c7411005" />
 ## Hi there 👋
 
 <!--
